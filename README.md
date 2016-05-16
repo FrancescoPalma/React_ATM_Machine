@@ -45,6 +45,7 @@ Here you can see the structure for this repo:
     |-- nwb.config.js
     |-- package.json
     |-- public
+    |   |-- app.css
     |   |-- index.html
     |-- src
     |   |-- index.js
